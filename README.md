@@ -65,6 +65,6 @@ growthdetective/
 
 ## Contributors
 - [@ristaardy](https://github.com/ristaardy)  
-- [@](https://github.com/username)
+- [@EleanorM3](https://github.com/EleanorM3)
 
    ---

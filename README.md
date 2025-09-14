@@ -18,7 +18,8 @@ growthdetective/
 
 - **Variables Used**:
   **Part 1, Part 2, and Part 3**
-  - `NY_GDP_PCAP_CD` → GDP per capita (US$), 1996-2018  
+  - `NY_GDP_PCAP_CD` → GDP per capita (US$), 1996-2018
+  - `SP_POP_TOTL` → Population, total, 1996-2018
   - `SE_PRM_TENR` → Primary school enrollment (gross, %), 1996-2018  
   - `SH_MED_BEDS_ZS` → Hospital beds per 1,000 people, 1996-2018  
   - `SP_POP_TOTL` → Total population, 1996-2018
